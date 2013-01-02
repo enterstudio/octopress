@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: So ein Tag
+categories:
+- politik
+- meinung
+status: publish
+type: post
+published: true
+---
+Was ist denn Heute los? Das Bombodrom wird endgültig aufgegeben, mein Projekt nimmt Gestalt an und in der U-Bahn werde ich von einem ausgesprochen höflichen Fahrkartenkontrolleur kontrolliert?
+
+Da ist doch irgendwas Faul! Was kommt denn jetzt als nächstes? Die zwei Staaten Lösung im nahen Osten? Sofortiger Atomausstieg?
